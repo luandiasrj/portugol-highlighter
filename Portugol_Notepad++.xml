@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">aleatorio algoritmo caracpnum caractereparanumero caso copia cronometro de dos eco enquanto entao escolha escreva escreval escrevalinha faca fim fimalgoritmo fimenquanto fimfuncao fimpara fimrepita fimse funcao interrompa inicio leia limpatela mudacor numpcarac numeroparacaractere outrocaso outrose para passo procedimento programa randi repita retorne se senao var variaveis</Keywords>
+            <Keywords name="Keywords1">aleatorio algoritmo caracpnum caractereparanumero caso copia cronometro de dos eco enquanto entao escolha escreva escreval escrevalinha faca fim fimalgoritmo fimenquanto fimfuncao fimpara fimrepita fimse funcao imprima interrompa inicio leia limpatela mudacor numpcarac numeroparacaractere outrocaso outrose para passo procedimento programa randi repita retorne se senao var variaveis</Keywords>
             <Keywords name="Keywords2">caracter caractere dados falso flutuante inteiro literal logico off on real vetor verdadeiro</Keywords>
             <Keywords name="Keywords3"></Keywords>
             <Keywords name="Keywords4"></Keywords>
